@@ -1,0 +1,13 @@
+{
+  "name": "vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.1.5",
+    "vite-plugin-mpa": "^0.3.1"
+  }
+}
